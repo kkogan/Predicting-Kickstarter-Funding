@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="30645">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/k53pnvfuuF-OBn505CRIDXfhwmo=/fit-in/200x150/pic1781098.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/OcxxEtIwZ_CE5b97hK0hsKUeLSQ=/0x0/pic1781098.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tammany Hall" />
+			
+						                           
+						               													<description>&amp;quot;The way to have Power is to take it&amp;quot; - William &amp;quot;Boss&amp;quot; Tweed&amp;#10;&amp;#10;Tammany Hall is a game of backstabbing, corruption, temporary alliances, and taking power at all costs. If you want to rule New York, you are going to need to play the city's growing immigrant populations against one another. Help the immigrant groups who owe you political favors, call in those favors to slander your rivals, and win elections.&amp;#10;&amp;#10;In Tammany Hall, players help immigrants settle in New York, collect political favors from those immigrant groups, send ward bosses into Manhattan to secure votes, and slander political opponents. An election is held at the end of every fourth year, and the player who uses his power base best will be elected mayor. The Mayor's grip on the city is tenuous at best. After every election, the Mayor must pay off his political rivals by placing them in offices that they can wield to try to take control of the city. Every player is your friend, every player is your enemy.&amp;#10;&amp;#10;Tammany Hall was the political machine that dominated New York City politics by organizing the immigrant populations. While the organization's influence spanned from its founding in the 1790s to its collapse in the 1960s, this game is set in lower Manhattan roughly between 1850 and 1870 &amp;ndash; the era of Boss Tweed.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="74">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13111" value="Cities: New York (New York, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="34116" value="Political: Elections" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7336" value="Doug Eckhart" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11802" value="Peter Dennis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40435" value="Bryan Fischer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2406" value="StrataMax Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26024" value="IDW Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3045" />
+			<average value="7.25427" />
+			<bayesaverage value="6.70921" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="667" bayesaverage="6.70921" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="378" bayesaverage="6.82298" />
+												</ranks>
+
+			<stddev value="1.40285" />
+			<median value="0" />
+			<owned value="3959" />
+			<trading value="171" />
+			<wanting value="343" />
+			<wishing value="1126" />
+			<numcomments value="875" />
+			<numweights value="210" />
+			<averageweight value="2.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
