@@ -1,5 +1,10 @@
-# Project 2: Regression
-###### Metis — Fall 2019 NYC Cohort — Weeks 2 and 3
+# Project 2: Regression   
+
+Metis — Fall 2019 NYC Cohort — Weeks 2 and 3
+
+## Deliverable
+[👉 Link to Presententation slides](https://docs.google.com/presentation/d/109jzeLPztlVUxcaFIfiLQABuF6tHNojmpO3DbngiKeE/edit?usp=sharing)
+
 ---
 ## Assignment Description
 ### Backstory:
@@ -33,7 +38,7 @@ Using information we scrape from the web, build linear regression models from wh
  * organized project repository
  * slide presentation
  * visual and oral communication in presentations
- * write-up of process and results
+ * ~~write-up of process and results~~
 
 
 #### Design:
@@ -52,10 +57,8 @@ As a tabletop game developer, what can I do to raise the maximum amount of money
 #### Description of my sample data:
 I scraped data about projects in the Tabletop Games category from Kickstarter search results, as well as corresponding project, rewards, and creator pages.
 
-I also pulled descriptive data about the games from BoardGameGeek's API.
+I also pulled descriptive data about the games from BoardGameGeek's API, but ended up running out of time before incorporating into my analysis.
 
-#### Characteristics of each entity:
-TODO
     
     
 ---
