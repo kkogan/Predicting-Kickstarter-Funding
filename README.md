@@ -8,6 +8,5 @@ As a tabletop game developer, what can I do to raise the maximum amount of money
 #### Description of my sample data:
 I scraped data about projects in the Tabletop Games category from Kickstarter search results, as well as corresponding project, rewards, and creator pages.
 
-I also pulled descriptive data about the games from BoardGameGeek's API, but ended up running out of time before incorporating into my analysis.
-
-   
+#### Future Work
+I pulled descriptive data about the games from BoardGameGeek's search API by using the Kickstarter game name as a query. Looking into whether this can be mined for features...
